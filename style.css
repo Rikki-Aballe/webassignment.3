@@ -1,0 +1,26 @@
+﻿/* Set background color and text styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+/* Style the heading */
+h1 {
+    color: #333;
+}
+
+/* Center the video container */
+.video-container {
+    margin: 20px auto;
+    width: 560px;
+}
+
+/* Animated box styling */
+.animated-box {
+    width: 100px;
+    height: 100px;
+    background-color: #4CAF50;
+    margin: 20px auto;
+    border-radius: 10px;
+}
